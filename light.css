@@ -1,0 +1,182 @@
+body,html {
+    /*background-color: rgb(145, 219, 243);*/
+    background-image: url("tye.webp");
+    filter: blur(8);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fa03dd;
+}
+
+a{
+    color: rgb(170, 152, 244);
+}
+a:link {
+    color: rgb(170, 152, 244);
+}
+a:hover {
+    color: hotpink;
+}
+a:active {
+    color: lightskyblue;
+}
+h1{
+    text-align: center;
+    font-family: "Lucida Handwriting"
+}
+
+nav{
+    text-align: right;
+    font-family: "Lucida Console";
+    color: rgb(0, 89, 255);
+}
+.extra-image{
+    margin-left: 500px;
+}
+
+.p1{
+    color:rgb(72, 69, 69);
+    font-family: "Arial";
+    position: absolute;
+    font-size: large;
+}
+
+.title{
+    color: rgb(0, 89, 255);
+    margin-top: 4in;
+    font-size: xx-large;
+    font-family: "Verdana";
+}
+.p2{
+    color: rgb(72, 69, 69);
+    font-family: "Arial";
+    font-size: large;
+    margin-top: 0.5in;
+}
+.TA{
+    color:rgb(21, 0, 255);
+    font-family: "Franklin Gothic";
+    font-size: x-large;
+    font-weight: normal;
+    padding: 2rem 2rem;
+}
+.descr1{
+    color:rgb(72, 69, 69);
+    font-family: "Arial";
+    font-size: large;
+    font-weight: normal;
+    display:inline-block;
+    padding: 10px 10px;
+}
+.CN{
+    color:rgb(21, 0, 255);
+    font-family: "Franklin Gothic";
+    font-size: x-large;
+    font-weight: normal;
+    padding: 2rem 2rem;
+}
+.descr2{
+    color:rgb(72, 69, 69);
+    font-family: "Arial";
+    font-size: large;
+    font-weight: normal;
+    display:inline-block;
+    padding: 10px 10px;
+}
+.Volunteer{
+    color:rgb(21, 0, 255);
+    font-family: "Franklin Gothic";
+    font-size: x-large;
+    font-weight: normal;
+    padding: 2rem 2rem;
+}
+.descr3{
+    color:rgb(72, 69, 69);
+    font-family: "Arial";
+    font-size: large;
+    font-weight: normal;
+    display:inline-block;
+    padding: 10px 10px;
+}
+.Website{
+    color:rgb(92, 150, 251);
+    font-family: "Franklin Gothic";
+    font-size: xx-large;
+    margin-top: 1in;
+    font-weight: bold;
+    padding: 2rem 2rem;
+}
+.project1{
+    color:rgb(0, 70, 200);
+    font-family: "Verdana";
+    font-size: large;
+    font-weight: normal;
+    display: inline-block;
+    padding: 50px 50px;
+}
+.Basic-Paint{
+    color:rgb(92, 150, 251);
+    font-family: "Franklin Gothic";
+    font-size: xx-large;
+    font-weight: bold;
+    padding: 2rem 2rem;
+}
+.project2{
+    color:rgb(0, 70, 200);
+    font-family: "Verdana";
+    font-size: large;
+    font-weight: normal;
+    display:inline-block;
+    padding: 50px 50px;
+}
+.Rasterization{
+    color:rgb(92, 150, 251);
+    font-family: "Franklin Gothic";
+    font-size: xx-large;
+    font-weight: bold;
+    padding: 2rem 2rem;
+}
+.project3{
+    color:rgb(0, 70, 200);
+    font-family: "Verdana";
+    font-size: large;
+    font-weight: normal;
+    display:inline-block;
+    padding: 50px 50px;
+}
+
+.info{
+    color:rgb(66, 218, 170);
+    font-size: x-large;
+    font-family: "Lucida Sans";
+}
+.p1_con{
+    position:relative;
+}
+.text1{
+    position:absolute;
+    bottom:70px;
+    left:500px;
+    background-color: rgb(32, 32, 66);
+    color: white;
+}
+.text2{
+    position:absolute;
+    bottom:80px;
+    left:1050px;
+    background-color: white;
+    color: black;
+}
+.pics{
+    padding: 2rem 2rem;
+}
+.img1{
+    display:inline-block;
+    margin-bottom: 50px;
+    margin-left:50px;
+}
+.img2{
+    display:inline-block;
+    margin-bottom:50px;
+    margin-left:500px;
+}
